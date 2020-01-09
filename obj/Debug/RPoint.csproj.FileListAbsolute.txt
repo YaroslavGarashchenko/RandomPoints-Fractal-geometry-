@@ -1,0 +1,9 @@
+C:\Projects\RandomPoint\RPoint\bin\Debug\RPoint.exe
+C:\Projects\RandomPoint\RPoint\bin\Debug\RPoint.pdb
+C:\Projects\RandomPoint\RPoint\obj\Debug\RPoint.csprojAssemblyReference.cache
+C:\Projects\RandomPoint\RPoint\obj\Debug\RPoint.Properties.Resources.resources
+C:\Projects\RandomPoint\RPoint\obj\Debug\RPoint.csproj.GenerateResource.cache
+C:\Projects\RandomPoint\RPoint\obj\Debug\RPoint.csproj.CoreCompileInputs.cache
+C:\Projects\RandomPoint\RPoint\obj\Debug\RPoint.exe
+C:\Projects\RandomPoint\RPoint\obj\Debug\RPoint.pdb
+C:\Projects\RandomPoint\RPoint\obj\Debug\RPoint.FormFractal.resources
